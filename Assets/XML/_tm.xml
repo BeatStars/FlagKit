@@ -1,0 +1,71 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="21"
+    android:viewportHeight="15"
+    android:width="21dp"
+    android:height="15dp">
+    <group
+        android:translateX="3"
+        android:translateY="1">
+        <path
+            android:pathData="M3 1A1.5 1 0 0 1 0 1A1.5 1 0 0 1 3 1Z"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M2.5 1A1 1 0 0 1 0.5 1A1 1 0 0 1 2.5 1Z"
+            android:fillColor="#DD404F" />
+        <path
+            android:pathData="M0 0H1.5V1H0V0Z"
+            android:fillColor="#FBAF29" />
+        <path
+            android:pathData="M1.5 1H3V2H1.5V1Z"
+            android:fillColor="#FBAF29" />
+    </group>
+    <group
+        android:translateX="3"
+        android:translateY="12">
+        <path
+            android:pathData="M3 1A1.5 1 0 0 1 0 1A1.5 1 0 0 1 3 1Z"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M2.5 1A1 1 0 0 1 0.5 1A1 1 0 0 1 2.5 1Z"
+            android:fillColor="#DD404F" />
+        <path
+            android:pathData="M0 0H1.5V1H0V0Z"
+            android:fillColor="#FBAF29" />
+        <path
+            android:pathData="M1.5 1H3V2H1.5V1Z"
+            android:fillColor="#FBAF29" />
+    </group>
+    <group
+        android:translateX="3"
+        android:translateY="7">
+        <path
+            android:pathData="M3 1A1.5 1 0 0 1 0 1A1.5 1 0 0 1 3 1Z"
+            android:fillColor="#28AE67" />
+        <path
+            android:pathData="M2.5 1A1 1 0 0 1 0.5 1A1 1 0 0 1 2.5 1Z"
+            android:fillColor="#DD404F" />
+    </group>
+    <group
+        android:translateX="3"
+        android:translateY="10">
+        <path
+            android:pathData="M3 0.5A1.5 1 0 0 1 0 0.5A1.5 1 0 0 1 3 0.5Z"
+            android:fillColor="#28AE67" />
+    </group>
+    <group
+        android:translateX="3"
+        android:translateY="4">
+        <path
+            android:pathData="M3 1A1.5 1 0 0 1 0 1A1.5 1 0 0 1 3 1Z"
+            android:fillColor="#FBAF29" />
+        <path
+            android:pathData="M2.5 1A1 1 0 0 1 0.5 1A1 1 0 0 1 2.5 1Z"
+            android:fillColor="#DD404F" />
+        <path
+            android:pathData="M0 0H1V2H0V0Z"
+            android:fillColor="#28AE67" />
+        <path
+            android:pathData="M2 0H3V2H2V0Z"
+            android:fillColor="#28AE67" />
+    </group>
+</vector>
